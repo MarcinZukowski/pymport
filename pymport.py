@@ -20,6 +20,7 @@ pymport_modules_pip_simple = [
 pymport_modules_pip_mapped = {
     "bs4":         "beautifulsoup4",
     "prettytable": "PrettyTable",
+    "yaml":        "pyaml",
 }
 
 """These are modules that might require some special installation"""
